@@ -1,6 +1,6 @@
 {
   "name": "@bernardjoseph/mdast-util-citekey",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "mdast extension to parse and serialize Pandoc-style citation keys",
   "license": "MIT",
   "keywords": [

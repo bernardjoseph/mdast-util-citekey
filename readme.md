@@ -31,7 +31,7 @@ Say our module, `example.js`, looks as follows:
 import {fromMarkdown} from 'mdast-util-from-markdown'
 import {toMarkdown} from 'mdast-util-to-markdown'
 import {citekey} from 'micromark-extension-citekey'
-import {citekeyFromMarkdown, citekeyToMarkdown} from 'mdast-util-citekey'
+import {citekeyFromMarkdown, citekeyToMarkdown} from '@bernardjoseph/mdast-util-citekey'
 
 const doc = 'See @wadler1989, sec. 1.3, and @{hughes1990.}, pp. 4.'
 
